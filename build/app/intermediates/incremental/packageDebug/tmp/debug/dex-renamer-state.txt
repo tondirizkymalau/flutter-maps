@@ -1,0 +1,4 @@
+#Fri Nov 08 15:14:09 ICT 2019
+base.0=D\:\\Materi Perkuliahan\\SEMESTER 5\\Pak Ary\\UTS\\Flutter Maps\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
